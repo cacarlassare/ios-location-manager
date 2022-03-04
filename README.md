@@ -1,2 +1,3 @@
-# ios-location-manager
-iOS Location Manager
+# LocationManager
+
+A description of this package.
